@@ -1,5 +1,5 @@
 *** Settings ***
-Default Tags    Activity
+Default Tags    Machine
 Library         SeleniumLibrary
 Library         String
 Resource        ../Resources/resources_import.robot
@@ -11,6 +11,8 @@ TC_001
     [Tags]                                       Machine
     [Setup]                                      Open my browser 
     Go to White Screen
+    Login by Password Login successful
+    Select Machine on the left sidebar
     Verify UI of Machine page
     Click on Create WC button
     Verify the UI of Work Center creation form
@@ -21,6 +23,8 @@ TC_002
     [Tags]                                       Machine
     [Setup]                                      Open my browser 
     Go to White Screen
+    Login by Password Login successful
+    Select Machine on the left sidebar
     Click on Create WC button
     Fill out all information to create a Work Center
     Click on Submit button on WC form
@@ -31,6 +35,8 @@ TC_003
     [Tags]                                       Machine
     [Setup]                                      Open my browser 
     Go to White Screen
+    Login by Password Login successful
+    Select Machine on the left sidebar
     Click on Create WC button
     Fill out all information to create a Work Center
     Click on Submit button on WC form
@@ -41,10 +47,12 @@ TC_003
     [Teardown]                                   Close browser
 
 TC_004
-    [Documentation]                              Verify can create a new Machine on Machine Management page
+    [Documentation]                              Verify can create a new Machine on Machine List page
     [Tags]                                       Machine
     [Setup]                                      Open my browser 
     Go to White Screen
+    Login by Password Login successful
+    Select Machine on the left sidebar
     Click on Create WC button
     Fill out all information to create a Work Center
     Click on Submit button on WC form

@@ -9,7 +9,7 @@ ${DefaultBrowser}    'Chrome'
 # Chrome browser:    'Chrome'     
 # IE 11 browser:     'IE'
 # Edge Chromimum     'Edge'         (ver 86.0.622.63)
-${environment}    CI 
+${environment}    Development 
 
 *** Keywords ***
 Open my browser

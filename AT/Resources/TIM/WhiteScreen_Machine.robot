@@ -4,15 +4,20 @@ Library      String
 Resource     ../../Locators/locators_import.robot
 Variables    ../../TestData/WhiteScreen_Machine_TestData.py
 
+*** Variables ***
+${environment}    Development
+
 *** Keywords ***
+Select Machine on the left sidebar
+    Wait Until Element Is Visible    ${Common_LeftSidebar_Machine}    30s
+    Click Element                    ${Common_LeftSidebar_Machine}
+
 Verify UI of Machine page
     Wait Until Element Is Visible    ${Machine_CreateWC_Btn}             30s
     ${Page_Title}=                   Get Text                            ${Machine_PageTitle_Lbl}
     Should Be Equal                  ${Page_Title}                       ${Machine_PageTitle_EN}                
     Wait Until Element Is Visible    ${Machine_DataTable}                30s
     Page Should Contain Element      ${Machine_CreateWC_Btn}
-    ${create_WC_btn}=                Get Text                            ${Machine_CreateWC_Btn}
-    Should Be Equal                  ${create_WC_btn}                    ${Machine_CreateForm_Title_EN}
     Page Should Contain Element      ${Machine_Header_Plant}
     ${header_plant}=                 Get Text                            ${Machine_Header_Plant}
     Should Be Equal                  ${header_plant}                     ${Machine_Header_Plant_EN}
@@ -94,7 +99,7 @@ Click on Create Machine button
 
 Verify the UI of Machine creation form
     Wait Until Element Is Visible    ${MachineList_CreateMachine_Btn}    30s
-    
+
 
 
 

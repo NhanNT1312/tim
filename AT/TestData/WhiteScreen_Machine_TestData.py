@@ -9,7 +9,7 @@ Machine_WorkcenterName_Txt_EN = "workCenterName"
 
 Machine_Header_Plant_EN = "Plant"
 Machine_Header_Segment_EN = "Segment"
-Machine_Header_Technonogy_EN = "Technonogy"
+Machine_Header_Technonogy_EN = "Technology"
 Machine_Header_WorkCenterID_EN = "Work Center ID (05)"
 Machine_Header_WorkCenterName_EN = "Work Center Name (05)"
 

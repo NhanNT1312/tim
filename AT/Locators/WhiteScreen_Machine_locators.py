@@ -25,7 +25,7 @@ Machine_CreateForm_Submit_Btn = "//button[contains(@class,'btn-submit')]"
 # Button
 Machine_Edit_Button = "(//app-actions-cell[@class='ng-star-inserted'])[2]/descendant::a[4]"
 Machine_Delete_Button = "(//app-actions-cell[@class='ng-star-inserted'])[2]/descendant::a[5]"
-Machine_Expand_MachineList_Btn = "(//app-expand-cell)[1]/descendant::mat-icon"
+Machine_Expand_MachineList_Btn = "(//app-expand-cell)[2]/descendant::mat-icon"
 
 # Machine List
 MachineList_CreateMachine_Btn = "(//button[contains(@class,'btn-new mat-flat-button')])[2]"
