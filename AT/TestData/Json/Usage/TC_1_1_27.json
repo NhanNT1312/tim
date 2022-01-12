@@ -1,0 +1,20 @@
+[
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "AppName": "Skype",
+        "AppTitle": "Skype",
+        "Duration": 108000
+    },
+    {
+        "Date": "xxxx-xx-xxT17:00:00+09:00",
+        "AppName": "Chrome",
+        "AppTitle": "Chrome",
+        "Duration": 81000
+    },
+    {
+        "Date": "xxxx-xx-xxT17:50:00+09:00",
+        "AppName": "TeamViewer",
+        "AppTitle": "TeamViewer",
+        "Duration": 54000
+    }
+]

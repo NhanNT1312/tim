@@ -1,0 +1,31 @@
+[ {
+    "Date" : "xxxx-xx-xxT04:00:00+09:00",
+    "Presence" : 1
+     },   
+   {
+    "Date" : "xxxx-xx-xxT04:30:00+09:00",
+    "Presence" : 2
+         },
+   {
+    "Date" : "xxxx-xx-xxT06:01:00+09:00",
+    "Presence" : 1
+         },
+   {
+    "Date" : "xxxx-xx-xxT07:10:00+09:00",
+    "Presence" : 0
+         },
+{
+    "Date" : "xxxx-xx-xxT07:42:00+09:00",
+    "Presence" : 1
+         },
+{
+    "Date" : "xxxx-xx-xxT08:15:00+09:00",
+    "Presence" : 2
+         },
+         {
+     "Date" : "xxxx-xx-xxT08:32:00+09:00",
+     "Presence" : 1
+               }
+   
+]
+ 

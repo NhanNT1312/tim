@@ -1,0 +1,92 @@
+[
+    {
+        "Date": "2021-04-14T08:00:00+09:00",
+        "AppName": "App1",
+        "AppTitle": "Skype",
+        "Duration": 216000
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "App2",
+        "AppTitle": "Chrome",
+        "Duration": 144000
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "App3",
+        "AppTitle": "TeamViewer",
+        "Duration": 72000
+    },
+    {
+        "Date": "2021-04-14T08:00:00+09:00",
+        "AppName": "App4",
+        "AppTitle": "Notepad",
+        "Duration": 50400
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "App5",
+        "AppTitle": "RIDE",
+        "Duration": 46800
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "App6",
+        "AppTitle": "IE",
+        "Duration": 43200
+    },
+    {
+        "Date": "2021-04-14T08:00:00+09:00",
+        "AppName": "App7",
+        "AppTitle": "Workplace",
+        "Duration": 39600
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "LinkedIn <Script/><br/>",
+        "AppTitle": "Postman",
+        "Duration": 36000
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "App9",
+        "AppTitle": "Team",
+        "Duration": 32400
+    },
+    {
+        "Date": "2021-04-14T08:00:00+09:00",
+        "AppName": "hello a & b, &lt;hello world &gt;",
+        "AppTitle": "Word",
+        "Duration": 28800
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "App11",
+        "AppTitle": "Excel",
+        "Duration": 25200
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "App12",
+        "AppTitle": "hello a & b, &lt;hello world &gt;",
+        "Duration": 25200
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "App13",
+        "AppTitle": "LinkedIn <Script/><br/>",
+        "Duration": 25200
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "App14",
+        "AppTitle": "LinkedIn <Script/><br/>",
+        "Duration": 25200
+    },
+    {
+        "Date": "2021-04-14T17:00:00+09:00",
+        "AppName": "App15",
+        "AppTitle": "LinkedIn <Script/><br/>",
+        "Duration": 25200
+    }
+]

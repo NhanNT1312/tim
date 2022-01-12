@@ -1,0 +1,32 @@
+[
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "AppName": "",
+        "AppTitle": "",
+        "Duration": 432000
+    },
+    {
+        "Date": "xxxx-xx-xxT08:30:00+09:00",
+        "AppName": "1",
+        "AppTitle": "1",
+        "Duration": 332000
+    },
+    {
+        "Date": "xxxx-xx-xxT09:00:00+09:00",
+        "AppName": "",
+        "AppTitle": "2",
+        "Duration": 232000
+    },
+    {
+        "Date": "xxxx-xx-xxT10:00:00+09:00",
+        "AppName": "",
+        "AppTitle": "3",
+        "Duration": 132000
+    },
+    {
+        "Date": "xxxx-xx-xxT13:00:00+09:00",
+        "AppName": "",
+        "AppTitle": "4",
+        "Duration": 32000
+    }
+  ]

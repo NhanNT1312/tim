@@ -1,0 +1,32 @@
+[
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "AppName": "</script> - </script>",
+        "AppTitle": "<script>vulnerability assessment - Google 検索 - Google Chrome</script>",
+        "Duration": 86400
+    },
+    {
+        "Date": "xxxx-xx-xxT10:00:00+09:00",
+        "AppName": "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
+        "AppTitle": "<href>vulnerability assessment - Google 検索 - Google Chrome</href>",
+        "Duration": 55000
+    },
+    {
+        "Date": "xxxx-xx-xxT13:01:00+09:00",
+        "AppName": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. AlsoBreaking news & live sports coverage including results Get the latest BBC new",
+        "AppTitle": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. AlsoBreaking news & live sports coverage including results Get the latest BBC new Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. AlsoBreaking news & live sports coverage including results Get the latest BBC new Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. AlsoBreaking news & live sports coverage including results Get the latest BBC new Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. AlsoBreaking news & live sports coverage including results Get",
+        "Duration": 43200
+    },
+    {
+        "Date": "xxxx-xx-xxT15:30:00+09:00",
+        "AppName": "A",
+        "AppTitle": "A",
+        "Duration": 22000
+    },
+    {
+        "Date": "xxxx-xx-xxT18:00:00+09:00",
+        "AppName": "",
+        "AppTitle": "",
+        "Duration": 12000
+    }
+  ]

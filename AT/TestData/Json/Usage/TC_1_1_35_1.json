@@ -1,0 +1,21 @@
+[
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "AppName": "Skype",
+        "AppTitle": "Skype",
+        "Duration": 108000
+    },
+    {
+        "Date": "xxxx-xx-xxT17:00:00+09:00",
+        "AppName": "Chrome",
+        "AppTitle": "Chrome",
+        "Duration": 81000
+    },
+    {
+        "Date": "xxxx-xx-xxT17:20:00+09:00",
+        "AppName": "Excel",
+        "AppTitle": "Excel",
+        "Duration": 54000
+    }
+    
+]

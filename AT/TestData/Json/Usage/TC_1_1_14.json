@@ -1,0 +1,68 @@
+[
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "AppName": "App1",
+        "AppTitle": "Skype",
+        "Duration": 216000
+    },
+    {
+        "Date": "xxxx-xx-xxT17:00:00+09:00",
+        "AppName": "App2",
+        "AppTitle": "Chrome",
+        "Duration": 144000
+    },
+    {
+        "Date": "xxxx-xx-xxT17:00:00+09:00",
+        "AppName": "App3",
+        "AppTitle": "TeamViewer",
+        "Duration": 72000
+    },
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "AppName": "App4",
+        "AppTitle": "Notpad",
+        "Duration": 50400
+    },
+    {
+        "Date": "xxxx-xx-xxT17:00:00+09:00",
+        "AppName": "App5",
+        "AppTitle": "RIDE",
+        "Duration": 46800
+    },
+    {
+        "Date": "xxxx-xx-xxT17:00:00+09:00",
+        "AppName": "App6",
+        "AppTitle": "IE",
+        "Duration": 43200
+    },
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "AppName": "App7",
+        "AppTitle": "Workplace",
+        "Duration": 39600
+    },
+    {
+        "Date": "xxxx-xx-xxT17:00:00+09:00",
+        "AppName": "App8",
+        "AppTitle": "Postman",
+        "Duration": 36000
+    },
+    {
+        "Date": "xxxx-xx-xxT17:00:00+09:00",
+        "AppName": "App9",
+        "AppTitle": "Team",
+        "Duration": 32400
+    },
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "AppName": "App10",
+        "AppTitle": "Word",
+        "Duration": 28800
+    },
+    {
+        "Date": "xxxx-xx-xxT17:00:00+09:00",
+        "AppName": "App11",
+        "AppTitle": "Excel",
+        "Duration": 25200
+    }
+]

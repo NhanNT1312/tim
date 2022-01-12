@@ -1,0 +1,32 @@
+[
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "AppName": "App1",
+        "AppTitle": "Skype",
+        "Duration": 432000
+    },
+    {
+        "Date": "xxxx-xx-xxT08:40:00+09:00",
+        "AppName": "App2",
+        "AppTitle": "Chrome",
+        "Duration": 144000
+    },
+    {
+        "Date": "xxxx-xx-xxT09:15:00+09:00",
+        "AppName": "App3",
+        "AppTitle": "TeamViewer",
+        "Duration": 72000
+    },
+    {
+        "Date": "xxxx-xx-xxT09:45:00+09:00",
+        "AppName": "App4",
+        "AppTitle": "Notpad",
+        "Duration": 50400
+    },
+    {
+        "Date": "xxxx-xx-xxT13:30:00+09:00",
+        "AppName": "App5",
+        "AppTitle": "Skype",
+        "Duration": 216000
+    }
+]

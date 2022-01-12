@@ -1,0 +1,26 @@
+[
+    {
+        "Date": "2020-12-04T08:00:00+09:00",
+        "AppName": "Skype1",
+        "AppTitle": "App1",
+        "Duration": 21600
+    },
+    {
+        "Date": "2020-12-04T17:00:00+09:00",
+        "AppName": "Chrome2",
+        "AppTitle": "App2",
+        "Duration": 144000
+    },
+    {
+        "Date": "2020-12-04T17:00:00+09:00",
+        "AppName": "Teams3",
+        "AppTitle": "App3",
+        "Duration": 72000
+    },
+    {
+        "Date": "2020-12-04T08:00:00+09:00",
+        "AppName": "Excel",
+        "AppTitle": "App4",
+        "Duration": 21600
+    }
+]

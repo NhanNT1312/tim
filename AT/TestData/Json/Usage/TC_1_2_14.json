@@ -1,0 +1,38 @@
+[
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "AppName": "Skype",
+        "AppTitle": "Skype",
+        "Duration": 108000
+    },
+    {
+        "Date": "xxxx-xx-xxT09:00:00+09:00",
+        "AppName": "Chrome",
+        "AppTitle": "Chrome",
+        "Duration": 81000
+    },
+    {
+        "Date": "xxxx-xx-xxT10:00:00+09:00",
+        "AppName": "TeamViewer",
+        "AppTitle": "TeamViewer",
+        "Duration": 54000
+    },
+    {
+        "Date": "xxxx-xx-xxT11:00:00+09:00",
+        "AppName": "VisualStudio",
+        "AppTitle": "VisualStudio",
+        "Duration": 54000
+    },
+    {
+        "Date": "xxxx-xx-xxT14:00:00+09:00",
+        "AppName": "Word",
+        "AppTitle": "Word",
+        "Duration": 54000
+    },
+    {
+        "Date": "xxxx-xx-xxT17:00:00+09:00",
+        "AppName": "Excel",
+        "AppTitle": "Excel",
+        "Duration": 27000
+    }
+]

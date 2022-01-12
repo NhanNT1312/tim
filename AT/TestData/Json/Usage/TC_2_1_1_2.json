@@ -1,0 +1,21 @@
+[
+    {
+        "Date": "2020-08-11T11:00:00+09:00",
+        "AppName": "Skype",
+        "AppTitle": "Skype Framework",
+        "Duration": 108000
+    },
+    {
+        "Date": "2020-08-11T11:10:00+09:00",
+        "AppName": "Chrome",
+        "AppTitle": "Chrome Framework",
+        "Duration": 81000
+    },
+    {
+        "Date": "2020-08-11T12:00:00+09:00",
+        "AppName": "Excel",
+        "AppTitle": "Excel Framework",
+        "Duration": 54000
+    }
+    
+]

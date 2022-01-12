@@ -1,0 +1,62 @@
+[
+    {
+        "Date": "2020-08-09T08:00:00+09:00",
+        "AppName": "Skype1",
+        "AppTitle": "Skype1",
+        "Duration": 108000
+    },
+    {
+        "Date": "2020-08-09T17:00:00+09:00",
+        "AppName": "Chrome1",
+        "AppTitle": "Chrome1",
+        "Duration": 81000
+    },
+    {
+        "Date": "2020-08-09T17:00:00+09:00",
+        "AppName": "TeamViewer1",
+        "AppTitle": "TeamViewer1",
+        "Duration": 54000
+    },
+    {
+        "Date": "2020-08-09T08:00:00+09:00",
+        "AppName": "Skype2",
+        "AppTitle": "Skype",
+        "Duration": 108000
+    },
+    {
+        "Date": "2020-08-09T17:00:00+09:00",
+        "AppName": "Chrome2",
+        "AppTitle": "Chrome2",
+        "Duration": 81000
+    },
+    {
+        "Date": "2020-08-09T17:00:00+09:00",
+        "AppName": "TeamViewer3",
+        "AppTitle": "TeamViewer",
+        "Duration": 54000
+    },
+    {
+        "Date": "2020-08-09T08:00:00+09:00",
+        "AppName": "Skype3",
+        "AppTitle": "Skype",
+        "Duration": 108000
+    },
+    {
+        "Date": "2020-08-09T17:00:00+09:00",
+        "AppName": "Chrome3",
+        "AppTitle": "Chrome5",
+        "Duration": 81000
+    },
+    {
+        "Date": "2020-08-09T17:00:00+09:00",
+        "AppName": "TeamViewer4",
+        "AppTitle": "TeamViewer5",
+        "Duration": 54000
+    },
+    {
+        "Date": "2020-08-09T17:00:00+09:00",
+        "AppName": "TeamViewer6",
+        "AppTitle": "TeamViewer5",
+        "Duration": 54000
+    }
+]

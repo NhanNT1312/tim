@@ -1,0 +1,10 @@
+[
+    {
+        "Date": "2020-12-01T00:00:00+09:00",
+        "WorkStartViolationNo": 0,
+        "WorkEndViolationNo": 0,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 1,
+        "ContinuousNonWorkViolationNo": 0
+    }
+]

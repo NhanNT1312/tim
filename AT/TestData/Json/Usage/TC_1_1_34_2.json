@@ -1,0 +1,21 @@
+[
+    {
+        "Date": "2020-08-01T08:00:00+09:00",
+        "AppName": "Skype",
+        "AppTitle": "Robot Framework",
+        "Duration": 108000
+    },
+    {
+        "Date": "2020-08-01T14:00:00+09:00",
+        "AppName": "Chrome",
+        "AppTitle": "Robot Framework",
+        "Duration": 81000
+    },
+    {
+        "Date": "2020-08-01T17:00:00+09:00",
+        "AppName": "Excel",
+        "AppTitle": "Robot Framework",
+        "Duration": 54000
+    }
+    
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "Date": "2020-11-01T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 1,
+        "ContinuousNonWorkViolationNo": 1
+    },
+    {
+        "Date": "2020-11-02T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-03T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-04T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-05T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 1,
+        "ContinuousNonWorkViolationNo": 1
+    },
+    {
+        "Date": "2020-11-06T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-07T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-08T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-09T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 1,
+        "ContinuousNonWorkViolationNo": 1
+    },
+    {
+        "Date": "2020-11-10T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-11T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-12T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-13T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 1,
+        "ContinuousNonWorkViolationNo": 1
+    },
+    {
+        "Date": "2020-11-14T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-15T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-16T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-17T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 1,
+        "ContinuousNonWorkViolationNo": 1
+    },
+    {
+        "Date": "2020-11-18T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-19T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-20T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-21T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 1,
+        "ContinuousNonWorkViolationNo": 1
+    },
+    {
+        "Date": "2020-11-22T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-23T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-24T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-25T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 1,
+        "ContinuousNonWorkViolationNo": 1
+    },
+    {
+        "Date": "2020-11-26T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-27T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-28T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-29T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    },
+    {
+        "Date": "2020-11-30T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 3,
+        "ContinuousNonWorkViolationNo": 4
+    }
+]

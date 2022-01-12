@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "2020-12-06T00:00:00+09:00",
+        "WorkStartViolationNo": 1,
+        "WorkEndViolationNo": 1,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 1,
+        "ContinuousNonWorkViolationNo": 1
+    },
+    {
+        "Date": "2020-12-05T00:00:00+09:00",
+        "WorkStartViolationNo": 0,
+        "WorkEndViolationNo": 0,
+        "WorkIntervalViolationNo": 1,
+        "ContinuousWorkViolationNo": 1,
+        "ContinuousNonWorkViolationNo": 1
+    }
+]

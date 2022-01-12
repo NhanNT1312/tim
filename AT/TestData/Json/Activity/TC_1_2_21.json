@@ -1,0 +1,18 @@
+[
+    {
+        "Date": "xxxx-xx-xxT08:00:00+09:00",
+        "Presence": 1
+    },
+    {
+        "Date": "xxxx-xx-xxT09:15:00+09:00",
+        "Presence": 2
+    },
+    {
+        "Date": "xxxx-xx-xxT10:30:00+09:00",
+        "Presence": 1
+    },
+    {
+        "Date": "xxxx-xx-xxT11:50:00+09:00",
+        "Presence": 2
+    }
+]
